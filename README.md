@@ -128,6 +128,7 @@ Indexer endpoints
 - `https://namada-rpc.kzvn.xyz` (DRAGONVN)
 - `http://namada-rpc.spidey.services` (spidey)
 - `https://rpc-namada.civetbera.io` (superpool)
+- 'httpp://139.59.255.37:26657/' (Grand Valley)
 
 ## Indexers
 
